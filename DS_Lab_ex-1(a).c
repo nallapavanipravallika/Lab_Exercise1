@@ -18,7 +18,7 @@ void main()
 	printf("enter 1 for Non-Recursive Function \n");
 	printf("enter 2 for Recursive Function\n ");
 	scanf("%d",&option);
-	switch(option)2
+	switch(option)
 	{
 	    case 1:
 	    {
